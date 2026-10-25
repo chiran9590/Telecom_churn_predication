@@ -8,8 +8,8 @@
   <a href="https://telecom-churn-prediction-1-sxxj.onrender.com">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-success?style=for-the-badge">
   </a>
-  <a href="https://github.com/sachin-418/Telecom_Churn_Prediction">
-    <img src="https://img.shields.io/github/stars/sachin-418/Telecom_Churn_Prediction?style=for-the-badge">
+  <a href="https://github.com/chiran9590/Telecom_churn_predication">
+    <img src="https://img.shields.io/github/stars/chiran9590/Telecom_churn_predication?style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Scikit--Learn-1.6.1-orange?style=for-the-badge&logo=scikitlearn">
@@ -233,7 +233,7 @@ Telecom_Churn_Prediction/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/sachin-418/Telecom_Churn_Prediction.git
+git clone https://github.com/chiran9590/Telecom_churn_predication.git
 ```
 
 ---
@@ -241,7 +241,7 @@ git clone https://github.com/sachin-418/Telecom_Churn_Prediction.git
 ## Navigate
 
 ```bash
-cd Telecom_Churn_Prediction
+cd Telecom_churn_predication
 ```
 
 ---
@@ -309,13 +309,13 @@ https://telecom-churn-prediction-1-sxxj.onrender.com
 
 # 👨‍💻 Author
 
-## **Sachin C**
+## **Chiran**
 
 📧 Passionate Machine Learning & AI Enthusiast
 
 GitHub:
 
-https://github.com/sachin-418
+https://github.com/chiran9590
 
 ---
 
@@ -335,6 +335,6 @@ If you found this project useful...
 
 ## 🚀 If you like this project, don't forget to ⭐ the repository!
 
-Made with ❤️ by **Sachin C**
+Made with ❤️ by **Chiran**
 
 </div>
